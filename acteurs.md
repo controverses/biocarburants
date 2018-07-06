@@ -1,6 +1,7 @@
 # Acteurs et arguments du débat
+-------------------------------
 
-## Première arène - conférence de débat public
+## Première arène - conférence de débat public sur le projet de bioraffinerie de La Mède
 
 ### Total - Plateforme de La Mède
 - [Communiqué de presse](https://www.lamede.total.fr/sites/shared/lamede/files/atoms/files/total_sengage_pour_une_diversification_responsable_des_approvisionnements.pdf)
