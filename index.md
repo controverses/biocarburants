@@ -1,4 +1,4 @@
-# Quels biocarburants pour des transports renouvelables en Europe ?
+# Quels biocarburants pour une transition énergétique européenne ?
 
 ![](media/blocagelamede.jpeg)
 
