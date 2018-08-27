@@ -34,32 +34,32 @@ Il est demandé à tout intervenant de se présenter, de dire quel rôle il inca
 
 ## Déroulé du samedi 1er septembre (15h - 17h)
 
-15 minutes 	> 	Échauffement à la prise de parole en public
+- 15 minutes 	> 	Échauffement à la prise de parole en public
 
 ---------
 
-5 minutes 	> 	Les animateurs de la Commission particulière de débat public présentent le cadre dans lequel les débats vont se dérouler.  Ils proposent d'ouvrir un premier moment d'information du public présent, portant sur le contexte et l'opportunité de développement des biocarburants en Europe et en France, et sur les critères de durabilité de ces derniers. Ils invitent à cet effet 5-6 acteurs de leur choix (parmi l'ensemble des rôles) à présenter leur analyse autour d'une table ronde.
+- 5 minutes 	> 	Les animateurs de la Commission particulière de débat public présentent le cadre dans lequel les débats vont se dérouler.  Ils proposent d'ouvrir un premier moment d'information du public présent, portant sur le contexte et l'opportunité de développement des biocarburants en Europe et en France, et sur les critères de durabilité de ces derniers. Ils invitent à cet effet 5-6 acteurs de leur choix (parmi l'ensemble des rôles) à présenter leur analyse autour d'une table ronde.
 
-10 minutes      >       Les acteurs invités à la tribune ont entre une et deux minutes pour exprimer chacun à tour de rôle leurs perspectives et arguments sur les bilans environnementaux des biocarburants (analyses de cycle de vie, mesure des émission de gaz à effet de serre, changement d’affectation des sols…), la mobilisation des ressources et des terres arables dans et hors de l’UE, et l’impact social des biocarburants (changement d’affectation des sols indirect…)
+- 10 minutes      >       Les acteurs invités à la tribune ont entre une et deux minutes pour exprimer chacun à tour de rôle leurs perspectives et arguments sur les bilans environnementaux des biocarburants (analyses de cycle de vie, mesure des émission de gaz à effet de serre, changement d’affectation des sols…), la mobilisation des ressources et des terres arables dans et hors de l’UE, et l’impact social des biocarburants (changement d’affectation des sols indirect…)
 
-20 minutes      >       Questions et débats avec la salle, de la part de citoyens concernés et acteurs frustrés de n'avoir pas été invités à s'exprimer par les animateurs. Ces derniers distribuent la parole et modèrent les débats. Ils font enfin la transition vers le sujet qui rassemble le public aujourd'hui : la présentation et le débat public autour du projet de bioraffinerie de La Mède.
-
---------------
-
-10 minutes      >       Le porteur de projet (représenté par plusieurs personnes) présente son plan de développement et argumente son bien-fondé.
-
-20 minutes	>	Questions et débats avec la salle. Des citoyens interrogent le projet et le soutiennent, essaient de l'infléchir, ou de l'empêcher. Certains groupes d'intérêts se mobilisent pour faire entendre leur voix. Les animateurs de la Commission particulière de débat public distribuent la parole et décident ou non de laisser le porteur répondre aux questions.
-
-5 minutes 	>       La Commission particulière de débats s'isole pour produire un compte-rendu oral des débats. Le porteur de projet décide ou non de modifier son projet.
-
-10 minutes      >       La Commission présente son compte-rendu en quelques minutes, le porteur de projet enchaîne en faisant connaître sa position. Réactions de la salle.
+- 20 minutes      >       Questions et débats avec la salle, de la part de citoyens concernés et acteurs frustrés de n'avoir pas été invités à s'exprimer par les animateurs. Ces derniers distribuent la parole et modèrent les débats. Ils font enfin la transition vers le sujet qui rassemble le public aujourd'hui : la présentation et le débat public autour du projet de bioraffinerie de La Mède.
 
 --------------
 
-15 minutes 	> 	Partage de conviction
+- 10 minutes      >       Le porteur de projet (représenté par plusieurs personnes) présente son plan de développement et argumente son bien-fondé.
+
+- 20 minutes	>	Questions et débats avec la salle. Des citoyens interrogent le projet et le soutiennent, essaient de l'infléchir, ou de l'empêcher. Certains groupes d'intérêts se mobilisent pour faire entendre leur voix. Les animateurs de la Commission particulière de débat public distribuent la parole et décident ou non de laisser le porteur répondre aux questions.
+
+- 5 minutes 	>       La Commission particulière de débats s'isole pour produire un compte-rendu oral des débats. Le porteur de projet décide ou non de modifier son projet.
+
+- 10 minutes      >       La Commission présente son compte-rendu en quelques minutes, le porteur de projet enchaîne en faisant connaître sa position. Réactions de la salle.
 
 --------------
 
-10 minutes	>	Débriefing sur le fond et la forme des débats
+- 15 minutes 	> 	Partage de conviction
+
+--------------
+
+- 10 minutes	>	Débriefing sur le fond et la forme des débats
 
 --------------
