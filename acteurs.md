@@ -1,18 +1,16 @@
 # Acteurs et arguments du débat
 -------------------------------
 
-## Le porteur de projet : Total, [site de La Mède](https://www.lamede.total.fr/)
+## Le porteur de projet : Total
+- [Site du projet de bioraffinerie de La Mède](https://www.lamede.total.fr/)
 - [Communiqué de presse de Total](https://www.lamede.total.fr/sites/shared/lamede/files/atoms/files/total_sengage_pour_une_diversification_responsable_des_approvisionnements.pdf)
 - [Lettre ouverte en réponse à des députés LREM](https://www.lamede.total.fr/sites/shared/lamede/files/atoms/files/lettre_ouverte_de_patrick_pouyanne_aux_deputes_lrem.pdf)
 - [Interview du PDG de Total dans Ouest France](https://www.ouest-france.fr/economie/energie/huile-de-palme-notre-projet-de-la-mede-evolue-tous-les-jours-dit-le-pdg-de-total-5817405)
 
-### Groupe Avril et sa filière [Diester](http://www.diester.fr/)
-
-
-
 ## Agro-industries productrices de biocarburants
 
 - [Communiqué de presse de la FNSEA (premier syndicat agricole)](media/fnsealamede.pdf)
+- [Situe du Groupe Avril et de sa filière Diester](http://www.diester.fr/)
 - [Interview du directeur général d'Avril à France Info](https://www.francetvinfo.fr/replay-radio/l-interview-eco/jean-philippe-puig-groupe-avril-sur-le-plan-economique-on-a-besoin-dun-peu-dhuile-de-palme_2774749.html)
 - [Le groupe Avril ne tient qu'à un fil, dans Libération](http://www.liberation.fr/planete/2018/06/08/le-groupe-avril-ne-tient-qu-a-un-fil_1657768)
 - [Communiqué de l'Association des Producteurs de Blé](http://www.agpb.fr/sites/default/files/cp_filiere_bioethanol_france_011216.pdf)
