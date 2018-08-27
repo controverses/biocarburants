@@ -1,5 +1,5 @@
 # En quête de biocarburants durables
-## *Controverses autour du projet de bioraffinerie de Total à la Mède et son importation d'huile de palme*
+## *Controverses autour du projet de bioraffinerie de Total à la Mède à partir d'huile de palme*
 
 --------
 
