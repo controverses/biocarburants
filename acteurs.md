@@ -1,9 +1,7 @@
 # Acteurs et arguments du débat
 -------------------------------
 
-## Industriels producteurs de biocarburants
-
-### Total - [Plateforme de La Mède](https://www.lamede.total.fr/)
+## Le porteur de projet : Total, sur le site de [La Mède](https://www.lamede.total.fr/)
 - [Communiqué de presse de Total](https://www.lamede.total.fr/sites/shared/lamede/files/atoms/files/total_sengage_pour_une_diversification_responsable_des_approvisionnements.pdf)
 - [Lettre ouverte en réponse à des députés LREM](https://www.lamede.total.fr/sites/shared/lamede/files/atoms/files/lettre_ouverte_de_patrick_pouyanne_aux_deputes_lrem.pdf)
 - [Interview du PDG de Total dans Ouest France](https://www.ouest-france.fr/economie/energie/huile-de-palme-notre-projet-de-la-mede-evolue-tous-les-jours-dit-le-pdg-de-total-5817405)
@@ -22,22 +20,13 @@
 
 ## Organisations non-gouvernementales 
 
-- [Dossier sur les agrocarburants, Total et la déforestation](https://www.greenpeace.fr/agrocarburants-france-a-contresens-protection-forets/)
-
-Oxfam International
-> Arguments d'Oxfam International
-Réseau Action Climat (RAC) 
-> Arguments du Réseau Action Climat
-Les Amis de la Terre
-> Arguments des Amis de la Terre
-Comité Catholique contre la Faim et pour le Développement (CCFD)
-> Arguments du CCFD
-Ressources communes :
-> Agrocarburants : Cartographie des enjeux
-> Courrier à la ministre de l’Environnement du 3 janvier 2017
-Autres acteurs jouables sur ces positions : Greenpeace, France Nature Environnement, Fondation Nicolas Hulot…
-Réseau Roule ma Frite
-> Arguments de Roule ma Frite
+- [Dossier sur les agrocarburants, Total et la déforestation, par Greenpeace](https://www.greenpeace.fr/agrocarburants-france-a-contresens-protection-forets/)
+- [Agrocarburants : comment l'Europe réchauffe la planète, par Oxfam](https://www.oxfam.org/sites/www.oxfam.org/files/bn-burning-land-climate-eu-bioenergy-261016-summ-fr_1.pdf)
+- [Position du Réseau Action Climat (RAC)](https://ccfd-terresolidaire.org/IMG/pdf/fiche_agrocarburants.pdf)
+- [Position du Comité Catholique contre la Faim et pour le Développement (CCFD)](https://ccfd-terresolidaire.org/IMG/pdf/noteagrocarburants_rdv_an_26janv10.pdf.pdf)
+- [Position des Amis de la Terre](http://www.amisdelaterre.org/IMG/pdf/at_position_agrocarburant_sept08.pdf)
+- [Comment les ONG essaient d'avoir la peau de la raffinerie de Total, dans l'Obs](https://www.nouvelobs.com/planete/20180705.OBS9254/huile-de-palme-comment-les-ong-essaient-d-avoir-la-peau-de-la-raffinerie-de-total.html)
+- [Le circuit court du Réseau Roule ma Frite, dans Le Monde](https://www.lemonde.fr/planete/article/2013/01/29/sur-l-ile-d-oleron-roule-ma-frite-carbure-a-l-huile-de-friture-recyclee_1823851_3244.html)
 
 ## Organismes supranationaux et de recherche
 
