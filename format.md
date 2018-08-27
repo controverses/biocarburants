@@ -1,6 +1,6 @@
 # Format et déroulé des débats
 
-## Un format original : la réunion de débat public
+## A/ Un format original : la réunion de débat public
 
 Dans le cas proposé, nous jouons une réunion de débat public portant sur la reconversion du site industriel pétrolier de La Mède en bioraffinerie. Au stade du débat public, la loi dispose qu’il est possible d’aborder “l’opportunité, les objectifs et les caractéristiques du projet” (article L121-1 du Code de l’environnement). D’autres réunions publiques peuvent avoir lieu tout au long de l’élaboration du projet : elles peuvent être informelles, organisées par le porteur du projet quand bon lui semble, ou organisées au titre de la loi (débat public, enquête publique).
 
@@ -14,7 +14,7 @@ Il existe plusieurs spécificités au débat public :
 
 Le débat dure 4 mois au maximum. A la fin du débat, la commission établit le compte rendu du débat, qui restitue l’ensemble des positions exprimées au fil des discussions. Il s’agit d’une carte des différents arguments exprimées. Sur la base de ce compte rendu, ainsi que du bilan que dresse la CNDP, le porteur du projet a trois mois pour faire part d’une décision sur la poursuite éventuelle du projet. Sa décision est publique et s’appuie sur les arguments exposés dans le compte rendu du débat. 
 
-Il existe de nombreuses modalités d’organisation des réunions publiques. Plusieurs formats existent et ils produisent tous des effets spécifiques sur la manière dont se déroulent discussions. D’une manière générale, et au delà même du débat public, les réunions publiques de concertation sont très largement organisées selon le schéma suivant :
+Il existe de nombreuses modalités d’organisation des réunions publiques. Plusieurs formats existent et ils produisent tous des effets spécifiques sur la manière dont se déroulent discussions. D’une manière générale, et au delà-même du débat public, les réunions publiques de concertation sont très largement organisées selon le schéma suivant :
 
 ### En tribune
 
@@ -37,3 +37,35 @@ Après chaque prise de parole, les porteurs du projet peuvent répondre pendant 
 Il est demandé à tout intervenant :
 1/ de se présenter, de dire quel rôle il incarne
 2/ de présenter un argument majeur par prise de parole (et donc ne pas développer plusieurs thèmes dans une même intervention).
+
+## B/ Déroulé de votre simulation du samedi 1er septembre (15h-17h)
+
+15 minutes 	> 	Échauffement à la prise de parole en public
+
+Six étudiants jouent les rôles de fonctionnaires européens de la direction Énergie de la Commission européenne : ils amorcent, animent les échanges, distribuent la parole, rédigent un rapport de synthèse, le présentent enfin et sont amenés à le défendre.
+--------------
+5 minutes 	> 	Ouverture de la réunion par un panorama des objectifs de la transition énergétique, du contexte réglementaire et des enjeux du développement de biocarburants durables pour la Commission européenne.
+À la lecture des contributions manuscrites, la Commission propose trois scénarios que ce débat doit éclairer et permettre de trancher :
+ 	-	Un statu quo sur les critères définis actuellement, qui empêche le développement supplémentaire de filières non durables mais protège leurs acquis tout en favorisant l’émergence de nouvelles technologies et ressources.
+	- 	Une prolongation des efforts de durabilité qui incite à distinguer davantage les nouvelles générations de biocarburants de ceux dits conventionnels en renforçant les critères et s’assurant davantage de leur respect.
+	-	Une redéfinition totale des critères de durabilité qui prend en compte l’ensemble des impacts de chaque filière (y compris indirects, et sociaux) et les autorise ou non au cas par cas, en fonction de seuils et mesures stricts.
+Un vote à main levée peut avoir lieu pour recueillir l’opinion des étudiants avant les débats
+--------------
+25 minutes 	> 	Table ronde sur les bilans environnementaux des biocarburants (analyses de cycle de vie, mesure des émission de gaz à effet de serre, changement d’affectation des sols…)
+|_  1 minute :  rappel des enjeux et principaux points de controverse qui ont amené à ouvrir le débat sur ce thème
+|_ 6 minutes : six acteurs sont invités sur scène à s’exprimer et présenter leur position en une minute chacun : un(e) rapporteur(rice) de la Cour des Comptes européennes, un(e) expert(e) de l’OCDE, un(e) chercheur(se) sur les analyses de cycle de vie à AgroParisTech, un(e) représentant(e) du Réseau Action Climat, un(e) chercheur(se) sur des projets de 2e/3e génération du CEA, un(e) représentant(e) de la Confédération générale des planteurs de betteraves.
+|_ 15 minutes : échange avec la salle animé par un représentant de la Commission, où des acteurs font valoir leurs arguments et revendications (dont un coup d’éclat possible de la part du réseau Roule ma frite).
+|_ 3 minutes :  synthèse des échanges et clôture par la Commission européenne
+--------------
+25 minutes 	> 	Table ronde sur la mobilisation des ressources et des terres arables dans et hors de l’UE, et l’impact social des biocarburants (changement d’affectation des sols indirect…)
+|_ 1 minute :   rappel des enjeux et principaux points de controverse qui ont amené à ouvrir le débat sur ce thème
+|_ 6 minutes : six acteurs sont invités sur scène à s’exprimer et présenter leur position en une minute chacun : un(e) expert(e) de la FAO, un(e) chercheur(se) sur l’impact des projets locaux de bioénergie du CIRAD, un(e) représentant(e) d’Oxfam International, un(e) représentant(e) de Diester International, un(e) représentant(e) de Total pour l’European Technology and Innovation Platform on Bioenergy, un(e) représentant(e) des Amis de la Terre.
+|_ 15 minutes : échange avec la salle animé par un représentant de la Commission,  où des acteurs font valoir leurs revendications.
+|_ 3 minutes :  synthèse des échanges et clôture par la Commission européenne
+--------------
+20 minutes 	> 	Préparation d’un rapport conclusif par la Commission européenne pour définir une nouvelle politique européenne de durabilité pour les biocarburants post 2020, en privilégiant un des trois scénarios de départ et motivant ce choix par des arguments recueillis lors de la consultation des parties prenantes. Les entreprises des secteurs agricoles et énergétiques ainsi que les plus grandes organisations non gouvernementales internationales peuvent exercer des pressions par du lobbying.
+--------------
+15 minutes 	> 	Conférence de presse où le contenu du rapport est explicité en 3 minutes, suivi de questions venant de la salle, par divers journalistes (généralistes qui interrogent notamment la forme même de la procédure de consultation et les pressions exercées ; économiques type Les Echos, Financial Times ; professionnels comme la France agricole ; écologistes comme Fabrice Nicolino…)
+--------------
+15 minutes 	> 	Partage de conviction
+
