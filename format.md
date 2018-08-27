@@ -28,9 +28,10 @@ Il existe de nombreuses modalités d’organisation des réunions publiques. Plu
 
 Les étudiants sont répartis de manière aléatoire dans la salle. Il n’y a pas d’ordre de prise de parole prévu : l’animateur distribue la parole à l’aveugle. Se manifester pour avoir la parole fait partie de l’apprentissage pour faire valoir ses arguments. Il est impossible de prévoir à l’avance quelle sera la dispersion des positions dans la salle.
 
-Après chaque prise de parole, les porteurs du projet peuvent répondre pendant 1’ maxi, si l’animateur de la Commission estime pertinent de lui passer la parole.
+Après chaque prise de parole, les porteurs du projet peuvent répondre pendant 1 minute maximum, si l’animateur de la Commission estime pertinent de lui passer la parole.
 
 Il est demandé à tout intervenant de se présenter, de dire quel rôle il incarne et de présenter un argument majeur par prise de parole (et donc ne pas développer plusieurs thèmes dans une même intervention).
+
 
 ## Déroulé du samedi 1er septembre (15h - 17h)
 
