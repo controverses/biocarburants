@@ -1,22 +1,24 @@
 # Acteurs et arguments du débat
 -------------------------------
 
-## Première arène - conférence de débat public sur le projet de bioraffinerie de La Mède
+## Industriels producteurs de biocarburants
 
-### Total - Plateforme de La Mède ([lien](https://www.lamede.total.fr/))
+### Total - [Plateforme de La Mède](https://www.lamede.total.fr/))
 - [Communiqué de presse de Total](https://www.lamede.total.fr/sites/shared/lamede/files/atoms/files/total_sengage_pour_une_diversification_responsable_des_approvisionnements.pdf)
 - [Lettre ouverte en réponse à des députés LREM](https://www.lamede.total.fr/sites/shared/lamede/files/atoms/files/lettre_ouverte_de_patrick_pouyanne_aux_deputes_lrem.pdf)
 - [Interview du PDG de Total dans Ouest France](https://www.ouest-france.fr/economie/energie/huile-de-palme-notre-projet-de-la-mede-evolue-tous-les-jours-dit-le-pdg-de-total-5817405)
 
+### Groupe Avril et sa filière [Diester](http://www.diester.fr/)
+- [Interview du directeur général d'Avril à France Info](https://www.francetvinfo.fr/replay-radio/l-interview-eco/jean-philippe-puig-groupe-avril-sur-le-plan-economique-on-a-besoin-dun-peu-dhuile-de-palme_2774749.html)
+- [Le groupe Avril ne tient qu'à un fil, dans Libération](http://www.liberation.fr/planete/2018/06/08/le-groupe-avril-ne-tient-qu-a-un-fil_1657768)
+
+
 ### Fédération nationale des syndicats d'exploitants agricoles
 - [Communiqué de presse de la FNSEA](media/fnsealamede.pdf)
 
-
-- [Interview du directeur général d'Avril à France Info](https://www.francetvinfo.fr/replay-radio/l-interview-eco/jean-philippe-puig-groupe-avril-sur-le-plan-economique-on-a-besoin-dun-peu-dhuile-de-palme_2774749.html)
-
 ## Organisations non-gouvernementales 
 
-- [Dossier de Greenpeace sur les agrocarburants et la déforestation](https://www.greenpeace.fr/agrocarburants-france-a-contresens-protection-forets/)
+- [Dossier sur les agrocarburants, Total et la déforestation](https://www.greenpeace.fr/agrocarburants-france-a-contresens-protection-forets/)
 
 Oxfam International
 > Arguments d'Oxfam International
