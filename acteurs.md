@@ -31,5 +31,6 @@
 
 - [Tirer le meilleur parti possible des biocarburants, par l'OCDE](http://www.oecd.org/fr/presse/tirerlemeilleurpartipossibledesbiocarburants.htm)
 - [Perspectives agricoles - biocarburants, par la FAO](http://www.fao.org/3/a-BO103f.pdf)
-- [États de lieux et perspectives des biocarburants, par l'IFP-EN](https://www.connaissancedesenergies.org/sites/default/files/pdf-actualites/panorama-vf_etat-des-lieux-perspectives-biocarburants-2016.pdf)
+- [État des lieux et perspectives des biocarburants, par l'IFP-EN](https://www.connaissancedesenergies.org/sites/default/files/pdf-actualites/panorama-vf_etat-des-lieux-perspectives-biocarburants-2016.pdf)
 - [Intérêts et limites des biocarburants, par AgroParisTech](https://hal.archives-ouvertes.fr/hal-00334040/document)
+- [Recherches sur les biocarburants de 2e & 3e génération, par le CEA](http://www.cea.fr/comprendre/Pages/energies/renouvelables/essentiel-sur-biocarburants.aspx)
