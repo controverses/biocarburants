@@ -38,3 +38,10 @@ Ressources communes :
 Autres acteurs jouables sur ces positions : Greenpeace, France Nature Environnement, Fondation Nicolas Hulot…
 Réseau Roule ma Frite
 > Arguments de Roule ma Frite
+
+## Organismes supranationaux et de recherche
+
+- [Tirer le meilleur parti possible des biocarburants, par l'OCDE](http://www.oecd.org/fr/presse/tirerlemeilleurpartipossibledesbiocarburants.htm)
+- [Perspectives agricoles - biocarburants, par la FAO](http://www.fao.org/3/a-BO103f.pdf)
+- [États de lieux et perspectives des biocarburants, par l'IFP Energies Nouvelles](https://www.connaissancedesenergies.org/sites/default/files/pdf-actualites/panorama-vf_etat-des-lieux-perspectives-biocarburants-2016.pdf)
+- [Intérêts et limites des biocarburants de 1ère génération, par un chercheur d'AgroParisTech](https://hal.archives-ouvertes.fr/hal-00334040/document)
