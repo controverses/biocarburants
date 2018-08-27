@@ -7,12 +7,14 @@
 - [Interview du PDG de Total dans Ouest France](https://www.ouest-france.fr/economie/energie/huile-de-palme-notre-projet-de-la-mede-evolue-tous-les-jours-dit-le-pdg-de-total-5817405)
 
 ### Groupe Avril et sa filière [Diester](http://www.diester.fr/)
+
+
+
+## Agro-industries productrices de biocarburants
+
+- [Communiqué de presse de la FNSEA (premier syndicat agricole)](media/fnsealamede.pdf)
 - [Interview du directeur général d'Avril à France Info](https://www.francetvinfo.fr/replay-radio/l-interview-eco/jean-philippe-puig-groupe-avril-sur-le-plan-economique-on-a-besoin-dun-peu-dhuile-de-palme_2774749.html)
 - [Le groupe Avril ne tient qu'à un fil, dans Libération](http://www.liberation.fr/planete/2018/06/08/le-groupe-avril-ne-tient-qu-a-un-fil_1657768)
-
-
-### Fédération nationale des syndicats d'exploitants agricoles
-- [Communiqué de presse de la FNSEA](media/fnsealamede.pdf)
 - [Communiqué de l'Association des Producteurs de Blé](http://www.agpb.fr/sites/default/files/cp_filiere_bioethanol_france_011216.pdf)
 - [Position de la Confédération Générale des Planteurs de Betteraves](https://www.bioethanolcarburant.com/nos_dossiers/bilan-co2-des-biocarburants-des-chercheurs-reevaluent-limpact-de-laffectation-des-terres-agricoles/)
 
