@@ -1,6 +1,6 @@
 # Format et déroulé des débats
 
-## A/ Format original : la réunion de débat public
+## Un format original : la réunion de débat public
 
 Dans le cas proposé, nous jouons une réunion de débat public portant sur la reconversion du site industriel pétrolier de La Mède en bioraffinerie. Au stade du débat public, la loi précise qu’il est possible d’aborder “l’opportunité, les objectifs et les caractéristiques du projet” (article L121-1 du Code de l’Environnement). D’autres réunions publiques peuvent avoir lieu tout au long de l’élaboration du projet : elles peuvent être informelles, organisées par le porteur du projet quand bon lui semble, ou organisées au titre de la loi (débat public, enquête publique).
 
