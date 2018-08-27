@@ -46,7 +46,7 @@ Il est demandé à tout intervenant de se présenter, de dire quel rôle il inca
 
 --------------
 
-10 minutes      >       Le porteur de projet (représenté par plusieurs personnes) présente le projet et argumente son bien-fondé.
+10 minutes      >       Le porteur de projet (représenté par plusieurs personnes) présente son plan de développement et argumente son bien-fondé.
 
 20 minutes	>	Questions et débats avec la salle. Des citoyens interrogent le projet et le soutiennent, essaient de l'infléchir, ou de l'empêcher. Certains groupes d'intérêts se mobilisent pour faire entendre leur voix. Les animateurs de la Commission particulière de débat public distribuent la parole et décident ou non de laisser le porteur répondre aux questions.
 
