@@ -1,5 +1,5 @@
 # En quête de biocarburants durables
-** ## Controverses autour du projet de bioraffinerie de Total à la Mède **
+## *Controverses autour du projet de bioraffinerie de Total à la Mède*
 
 --------
 
