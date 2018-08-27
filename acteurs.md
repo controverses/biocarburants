@@ -2,7 +2,7 @@
 -------------------------------
 
 ## La Commission particulière de débat public
-[La Commission nationale de débat public (CNDP)](https://www.debatpublic.fr/son-role) lui a confié la charge de l’organisation et l'animation du débat sur le projet de reconversion en bioraffinerie du site pétrolier de La Mède par Total.
+[La Commission nationale de débat public (CNDP)](https://www.debatpublic.fr/son-role) lui a confié la charge de l’organisation et l'animation du débat autour du projet de La Mède.
 
 ## Le porteur de projet : Total
 
