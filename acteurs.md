@@ -21,7 +21,7 @@
 - [Dossier de Greenpeace sur Total et la déforestation](https://www.greenpeace.fr/agrocarburants-france-a-contresens-protection-forets/)
 - [Agrocarburants : comment l'Europe réchauffe la planète, par Oxfam](https://www.oxfam.org/sites/www.oxfam.org/files/bn-burning-land-climate-eu-bioenergy-261016-summ-fr_1.pdf)
 - [Position du Réseau Action Climat (RAC)](https://ccfd-terresolidaire.org/IMG/pdf/fiche_agrocarburants.pdf)
-- [Position du Comité Catholique contre la Faim & pour le Développement](https://ccfd-terresolidaire.org/IMG/pdf/noteagrocarburants_rdv_an_26janv10.pdf.pdf)
+- [Position du Comité Catholique contre la Faim pour le Développement](https://ccfd-terresolidaire.org/IMG/pdf/noteagrocarburants_rdv_an_26janv10.pdf.pdf)
 - [Position des Amis de la Terre](http://www.amisdelaterre.org/IMG/pdf/at_position_agrocarburant_sept08.pdf)
 - [Comment les ONG essaient d'avoir la peau de Total, dans l'Obs](https://www.nouvelobs.com/planete/20180705.OBS9254/huile-de-palme-comment-les-ong-essaient-d-avoir-la-peau-de-la-raffinerie-de-total.html)
 - [Le circuit court du Réseau Roule ma Frite, dans Le Monde](https://www.lemonde.fr/planete/article/2013/01/29/sur-l-ile-d-oleron-roule-ma-frite-carbure-a-l-huile-de-friture-recyclee_1823851_3244.html)
