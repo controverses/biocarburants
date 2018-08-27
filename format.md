@@ -42,7 +42,7 @@ Il est demandé à tout intervenant de se présenter, de dire quel rôle il inca
 
 10 minutes      >       Les acteurs invités à la tribune ont entre une et deux minutes pour exprimer chacun à tour de rôle leurs perspectives et arguments sur les bilans environnementaux des biocarburants (analyses de cycle de vie, mesure des émission de gaz à effet de serre, changement d’affectation des sols…), la mobilisation des ressources et des terres arables dans et hors de l’UE, et l’impact social des biocarburants (changement d’affectation des sols indirect…)
 
-20 minutes      >       Questions et débats avec la salle, de la part de citoyens concernés et acteurs frustrés de n'avoir pas été invités à s'exprimer par les animateurs. Ces derniers distribuent la parole et modèrent les débats.
+20 minutes      >       Questions et débats avec la salle, de la part de citoyens concernés et acteurs frustrés de n'avoir pas été invités à s'exprimer par les animateurs. Ces derniers distribuent la parole et modèrent les débats. Ils font enfin la transition vers le sujet qui rassemble le public aujourd'hui : la présentation et le débat public autour du projet de bioraffinerie de La Mède.
 
 --------------
 
