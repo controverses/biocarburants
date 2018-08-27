@@ -32,7 +32,7 @@ Après chaque prise de parole, les porteurs du projet peuvent répondre pendant 
 
 Il est demandé à tout intervenant de se présenter, de dire quel rôle il incarne et de présenter un argument majeur par prise de parole (et donc ne pas développer plusieurs thèmes dans une même intervention).
 
-## Déroulé du samedi 1er septembre (de 15h à 17h)
+## Déroulé du samedi 1er septembre (15h - 17h)
 
 15 minutes 	> 	Échauffement à la prise de parole en public
 
