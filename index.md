@@ -1,6 +1,8 @@
 # Quels biocarburants pour une transition énergétique de l'U.E ?
 
+
 ![](media/blocagelamede.jpeg)
+
 
 ## Une énergie renouvelable controversée
 
@@ -19,5 +21,7 @@ Ces critères ainsi que la mise en oeuvre du processus de certification sont dé
 C’est dans ce contexte difficile, qui mixe des enjeux à la fois énergétiques, environnementaux, agricoles et alimentaires, que la Direction Énergie de la Commission Européenne enclenche une procédure de consultation des parties prenantes, pour définir une nouvelle politique de durabilité des biocarburants à l’horizon post-2020. Alors que certains biocarburants, tels ceux issus d'huile de palme, sont amenés à disparaître d'ici 2021, un projet de bioraffinerie sur la plateforme Total de la Mède utilisant cette ressource concentre aujourd'hui des prises de positions contradictoires.
 
 ## Le projet de bioraffinerie de Total à la Mède
+
+![](https://www.actu-environnement.com/images/illustrations/breves/31637_fb.jpg)
 
 
