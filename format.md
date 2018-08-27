@@ -42,7 +42,6 @@ Il est demandé à tout intervenant :
 
 15 minutes 	> 	Échauffement à la prise de parole en public
 
-Six étudiants jouent les rôles de fonctionnaires européens de la direction Énergie de la Commission européenne : ils amorcent, animent les échanges, distribuent la parole, rédigent un rapport de synthèse, le présentent enfin et sont amenés à le défendre.
 --------------
 5 minutes 	> 	Ouverture de la réunion par un panorama des objectifs de la transition énergétique, du contexte réglementaire et des enjeux du développement de biocarburants durables pour la Commission européenne.
 À la lecture des contributions manuscrites, la Commission propose trois scénarios que ce débat doit éclairer et permettre de trancher :
@@ -50,22 +49,21 @@ Six étudiants jouent les rôles de fonctionnaires européens de la direction É
 	- 	Une prolongation des efforts de durabilité qui incite à distinguer davantage les nouvelles générations de biocarburants de ceux dits conventionnels en renforçant les critères et s’assurant davantage de leur respect.
 	-	Une redéfinition totale des critères de durabilité qui prend en compte l’ensemble des impacts de chaque filière (y compris indirects, et sociaux) et les autorise ou non au cas par cas, en fonction de seuils et mesures stricts.
 Un vote à main levée peut avoir lieu pour recueillir l’opinion des étudiants avant les débats
+
 --------------
-25 minutes 	> 	Table ronde sur les bilans environnementaux des biocarburants (analyses de cycle de vie, mesure des émission de gaz à effet de serre, changement d’affectation des sols…)
+25 minutes 	> 	Table ronde sur les bilans environnementaux des biocarburants (analyses de cycle de vie, mesure des émission de gaz à effet de serre, changement d’affectation des sols…), la mobilisation des ressources et des terres arables dans et hors de l’UE, et l’impact social des biocarburants (changement d’affectation des sols indirect…)
 |_  1 minute :  rappel des enjeux et principaux points de controverse qui ont amené à ouvrir le débat sur ce thème
 |_ 6 minutes : six acteurs sont invités sur scène à s’exprimer et présenter leur position en une minute chacun : un(e) rapporteur(rice) de la Cour des Comptes européennes, un(e) expert(e) de l’OCDE, un(e) chercheur(se) sur les analyses de cycle de vie à AgroParisTech, un(e) représentant(e) du Réseau Action Climat, un(e) chercheur(se) sur des projets de 2e/3e génération du CEA, un(e) représentant(e) de la Confédération générale des planteurs de betteraves.
 |_ 15 minutes : échange avec la salle animé par un représentant de la Commission, où des acteurs font valoir leurs arguments et revendications (dont un coup d’éclat possible de la part du réseau Roule ma frite).
 |_ 3 minutes :  synthèse des échanges et clôture par la Commission européenne
+
 --------------
 25 minutes 	> 	Table ronde sur la mobilisation des ressources et des terres arables dans et hors de l’UE, et l’impact social des biocarburants (changement d’affectation des sols indirect…)
 |_ 1 minute :   rappel des enjeux et principaux points de controverse qui ont amené à ouvrir le débat sur ce thème
 |_ 6 minutes : six acteurs sont invités sur scène à s’exprimer et présenter leur position en une minute chacun : un(e) expert(e) de la FAO, un(e) chercheur(se) sur l’impact des projets locaux de bioénergie du CIRAD, un(e) représentant(e) d’Oxfam International, un(e) représentant(e) de Diester International, un(e) représentant(e) de Total pour l’European Technology and Innovation Platform on Bioenergy, un(e) représentant(e) des Amis de la Terre.
 |_ 15 minutes : échange avec la salle animé par un représentant de la Commission,  où des acteurs font valoir leurs revendications.
 |_ 3 minutes :  synthèse des échanges et clôture par la Commission européenne
---------------
-20 minutes 	> 	Préparation d’un rapport conclusif par la Commission européenne pour définir une nouvelle politique européenne de durabilité pour les biocarburants post 2020, en privilégiant un des trois scénarios de départ et motivant ce choix par des arguments recueillis lors de la consultation des parties prenantes. Les entreprises des secteurs agricoles et énergétiques ainsi que les plus grandes organisations non gouvernementales internationales peuvent exercer des pressions par du lobbying.
---------------
-15 minutes 	> 	Conférence de presse où le contenu du rapport est explicité en 3 minutes, suivi de questions venant de la salle, par divers journalistes (généralistes qui interrogent notamment la forme même de la procédure de consultation et les pressions exercées ; économiques type Les Echos, Financial Times ; professionnels comme la France agricole ; écologistes comme Fabrice Nicolino…)
+
+
 --------------
 15 minutes 	> 	Partage de conviction
-
