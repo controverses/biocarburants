@@ -10,3 +10,22 @@
 
 ### Fédération nationale des syndicats d'exploitants agricoles
 - [Communiqué de presse de la FNSEA](media/fnsealamede.pdf)
+
+
+- [Interview du directeur général d'Avril à France Info]https://www.francetvinfo.fr/replay-radio/l-interview-eco/jean-philippe-puig-groupe-avril-sur-le-plan-economique-on-a-besoin-dun-peu-dhuile-de-palme_2774749.html
+
+## Organisations non-gouvernementales 
+Oxfam International
+> Arguments d'Oxfam International
+Réseau Action Climat (RAC) 
+> Arguments du Réseau Action Climat
+Les Amis de la Terre
+> Arguments des Amis de la Terre
+Comité Catholique contre la Faim et pour le Développement (CCFD)
+> Arguments du CCFD
+Ressources communes :
+> Agrocarburants : Cartographie des enjeux
+> Courrier à la ministre de l’Environnement du 3 janvier 2017
+Autres acteurs jouables sur ces positions : Greenpeace, France Nature Environnement, Fondation Nicolas Hulot…
+Réseau Roule ma Frite
+> Arguments de Roule ma Frite
