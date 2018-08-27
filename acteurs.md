@@ -9,8 +9,9 @@
 
 ## Agro-industries productrices de biocarburants
 
+- [La FNSEA dénonce la concurrence de l'huile de palme, Le Monde](https://www.lemonde.fr/economie/article/2018/06/09/la-fnsea-denonce-la-concurrence-de-l-huile-de-palme-dans-les-biocarburants_5312182_3234.html)
 - [Communiqué de presse de la FNSEA (premier syndicat agricole)](media/fnsealamede.pdf)
-- [Situe du Groupe Avril et de sa filière Diester](http://www.diester.fr/)
+- [Site institutionnel du Groupe Avril et de sa filière Diester](http://www.diester.fr/)
 - [Interview du directeur général d'Avril à France Info](https://www.francetvinfo.fr/replay-radio/l-interview-eco/jean-philippe-puig-groupe-avril-sur-le-plan-economique-on-a-besoin-dun-peu-dhuile-de-palme_2774749.html)
 - [Le groupe Avril ne tient qu'à un fil, dans Libération](http://www.liberation.fr/planete/2018/06/08/le-groupe-avril-ne-tient-qu-a-un-fil_1657768)
 - [Communiqué de l'Association Générale des Producteurs de Blé](http://www.agpb.fr/sites/default/files/cp_filiere_bioethanol_france_011216.pdf)
