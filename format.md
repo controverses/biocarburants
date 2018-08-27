@@ -1,5 +1,7 @@
 # Format et déroulé des débats
 
+----------
+
 ## Un format original : la réunion de débat public
 
 Dans le cas proposé, nous jouons une réunion de débat public portant sur la reconversion du site industriel pétrolier de La Mède en bioraffinerie. Au stade du débat public, la loi précise qu’il est possible d’aborder “l’opportunité, les objectifs et les caractéristiques du projet” (article L121-1 du Code de l’Environnement). D’autres réunions publiques peuvent avoir lieu tout au long de l’élaboration du projet : elles peuvent être informelles, organisées par le porteur du projet quand bon lui semble, ou organisées au titre de la loi (débat public, enquête publique).
@@ -30,32 +32,34 @@ Après chaque prise de parole, les porteurs du projet peuvent répondre pendant 
 
 Il est demandé à tout intervenant de se présenter, de dire quel rôle il incarne et de présenter un argument majeur par prise de parole (et donc ne pas développer plusieurs thèmes dans une même intervention).
 
-## B/ Déroulé du samedi 1er sept. (15h-17h)
+## Déroulé du samedi 1er septembre (de 15h à 17h)
 
 15 minutes 	> 	Échauffement à la prise de parole en public
 
---------------
-5 minutes 	> 	Ouverture de la réunion par un panorama des objectifs de la transition énergétique, du contexte réglementaire et des enjeux du développement de biocarburants durables pour la Commission européenne.
-À la lecture des contributions manuscrites, la Commission propose trois scénarios que ce débat doit éclairer et permettre de trancher :
- 	-	Un statu quo sur les critères définis actuellement, qui empêche le développement supplémentaire de filières non durables mais protège leurs acquis tout en favorisant l’émergence de nouvelles technologies et ressources.
-	- 	Une prolongation des efforts de durabilité qui incite à distinguer davantage les nouvelles générations de biocarburants de ceux dits conventionnels en renforçant les critères et s’assurant davantage de leur respect.
-	-	Une redéfinition totale des critères de durabilité qui prend en compte l’ensemble des impacts de chaque filière (y compris indirects, et sociaux) et les autorise ou non au cas par cas, en fonction de seuils et mesures stricts.
-Un vote à main levée peut avoir lieu pour recueillir l’opinion des étudiants avant les débats
+---------
+
+5 minutes 	> 	Les animateurs de la Commission particulière de débat public présentent le cadre dans lequel les débats vont se dérouler.  Ils proposent d'ouvrir un premier moment d'information du public présent, portant sur le contexte et l'opportunité de développement des biocarburants en Europe et en France, et sur les critères de durabilité de ces derniers. Ils invitent à cet effet 5-6 acteurs de leur choix (parmi l'ensemble des rôles) à présenter leur analyse autour d'une table ronde.
+
+10 minutes      >       Les acteurs invités à la tribune ont entre une et deux minutes pour exprimer chacun à tour de rôle leurs perspectives et arguments sur les bilans environnementaux des biocarburants (analyses de cycle de vie, mesure des émission de gaz à effet de serre, changement d’affectation des sols…), la mobilisation des ressources et des terres arables dans et hors de l’UE, et l’impact social des biocarburants (changement d’affectation des sols indirect…)
+
+20 minutes      >       Questions et débats avec la salle, de la part de citoyens concernés et acteurs frustrés de n'avoir pas été invités à s'exprimer par les animateurs. Ces derniers distribuent la parole et modèrent les débats.
 
 --------------
-25 minutes 	> 	Table ronde sur les bilans environnementaux des biocarburants (analyses de cycle de vie, mesure des émission de gaz à effet de serre, changement d’affectation des sols…), la mobilisation des ressources et des terres arables dans et hors de l’UE, et l’impact social des biocarburants (changement d’affectation des sols indirect…)
-|_  1 minute :  rappel des enjeux et principaux points de controverse qui ont amené à ouvrir le débat sur ce thème
-|_ 6 minutes : six acteurs sont invités sur scène à s’exprimer et présenter leur position en une minute chacun : un(e) rapporteur(rice) de la Cour des Comptes européennes, un(e) expert(e) de l’OCDE, un(e) chercheur(se) sur les analyses de cycle de vie à AgroParisTech, un(e) représentant(e) du Réseau Action Climat, un(e) chercheur(se) sur des projets de 2e/3e génération du CEA, un(e) représentant(e) de la Confédération générale des planteurs de betteraves.
-|_ 15 minutes : échange avec la salle animé par un représentant de la Commission, où des acteurs font valoir leurs arguments et revendications (dont un coup d’éclat possible de la part du réseau Roule ma frite).
-|_ 3 minutes :  synthèse des échanges et clôture par la Commission européenne
+
+10 minutes      >       Le porteur de projet (représenté par plusieurs personnes) présente le projet et argumente son bien-fondé.
+
+20 minutes	>	Questions et débats avec la salle. Des citoyens interrogent le projet et le soutiennent, essaient de l'infléchir, ou de l'empêcher. Certains groupes d'intérêts se mobilisent pour faire entendre leur voix. Les animateurs de la Commission particulière de débat public distribuent la parole et décident ou non de laisser le porteur répondre aux questions.
+
+5 minutes 	>       La Commission particulière de débats s'isole pour produire un compte-rendu oral des débats. Le porteur de projet décide ou non de modifier son projet.
+
+10 minutes      >       La Commission présente son compte-rendu en quelques minutes, le porteur de projet enchaîne en faisant connaître sa position. Réactions de la salle.
 
 --------------
-25 minutes 	> 	Table ronde sur la mobilisation des ressources et des terres arables dans et hors de l’UE, et l’impact social des biocarburants (changement d’affectation des sols indirect…)
-|_ 1 minute :   rappel des enjeux et principaux points de controverse qui ont amené à ouvrir le débat sur ce thème
-|_ 6 minutes : six acteurs sont invités sur scène à s’exprimer et présenter leur position en une minute chacun : un(e) expert(e) de la FAO, un(e) chercheur(se) sur l’impact des projets locaux de bioénergie du CIRAD, un(e) représentant(e) d’Oxfam International, un(e) représentant(e) de Diester International, un(e) représentant(e) de Total pour l’European Technology and Innovation Platform on Bioenergy, un(e) représentant(e) des Amis de la Terre.
-|_ 15 minutes : échange avec la salle animé par un représentant de la Commission,  où des acteurs font valoir leurs revendications.
-|_ 3 minutes :  synthèse des échanges et clôture par la Commission européenne
 
-
---------------
 15 minutes 	> 	Partage de conviction
+
+--------------
+
+10 minutes	>	Débriefing sur le fond et la forme des débats
+
+--------------
