@@ -1,5 +1,7 @@
-# Quels biocarburants pour une transition énergétique de l'U.E ?
+# En quête d'un biocarburant durable
+# Controverses autour du projet de bioraffinerie de Total à la Mède
 
+--------
 
 ![](media/blocagelamede.jpeg)
 
