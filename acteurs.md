@@ -25,6 +25,7 @@
 ## Organisations non-gouvernementales 
 
 - [Dossier de Greenpeace sur Total et la déforestation](https://www.greenpeace.fr/agrocarburants-france-a-contresens-protection-forets/)
+- [Mobilisation locale du Collectif Climat Pays d'Aix](https://collectifclimat-paysdaix.fr/2017/05/26/compte-rendu-enquete-publique-transformation-de-raffinerie-de-mede-plateforme-biocarburants/)
 - [Agrocarburants : comment l'Europe réchauffe la planète, par Oxfam](https://www.oxfam.org/sites/www.oxfam.org/files/bn-burning-land-climate-eu-bioenergy-261016-summ-fr_1.pdf)
 - [Position du Réseau Action Climat (RAC)](https://ccfd-terresolidaire.org/IMG/pdf/fiche_agrocarburants.pdf)
 - [Agrocarburants & Climat, pourquoi ce n'est pas une solution (RAC)](https://reseauactionclimat.org/wp-content/uploads/2017/04/Agrocarburants-et-climat-Pourquoi-ce-n%E2%80%99est-pas-une-solution.pdf)
